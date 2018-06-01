@@ -1,6 +1,5 @@
 def new_hash
-dictionary = {}
-dictionary
+monopoly = {}
 end
 
 def actor
